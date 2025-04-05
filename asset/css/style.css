@@ -2,7 +2,7 @@
 body {
     margin: 0;
     padding: 0;
-    background-image: url('/asset/img/bgcover1.svg'); /* ganti dengan path sesuai gambar background */
+    background-image: url('../img/bgcover1.svg'); /* ganti dengan path sesuai gambar background */
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
